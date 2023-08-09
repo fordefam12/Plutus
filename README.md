@@ -28,11 +28,10 @@ This was our groups first full stack application that we developed from scratch,
 
 Click (here) to visit the Plutus application or scan the QR code below: <br>
 <p align='center'>
-<a href='https://shielded-stream-48370-06cb0de7f892.herokuapp.com/'><img src='./public/asset/PLUTUS.png' width="60%"></a>
-</p>
+<a href='https://shielded-stream-48370-06cb0de7f892.herokuapp.com/'><img src='./qr-code (3).png' width="60%"></a>
 
 <p align='center'>
-<a href='https://github.com/sucheta90/Plutus'><img src='./public/asset/Plutus_githubRepo.png' width="60%"></a>
+<a href='https://github.com/fordefam12/Plutus'><img src='./qr-code (4).png' width="60%"></a>
 </p>
 
 
