@@ -28,11 +28,11 @@ This was our groups first full stack application that we developed from scratch,
 
 Click (here) to visit the Plutus application or scan the QR code below: <br>
 <p align='center'>
-<a href='https://plutus-budgeting-ed67f205c52b.herokuapp.com/'><img src='./public/asset/PLUTUS.png' width="60%"/><a>
+<a href='https://plutus-budgeting-ed67f205c52b.herokuapp.com/'><img src='./public/asset/PLUTUS.png' width="60%"></a>
 </p>
 
 <p align='center'>
-<a href='https://github.com/sucheta90/Plutus'><img src='./public/asset/Plutus_githubRepo.png' width="60%"/><a>
+<a href='https://github.com/sucheta90/Plutus'><img src='./public/asset/Plutus_githubRepo.png' width="60%"></a>
 </p>
 
 
@@ -80,6 +80,10 @@ The Trip Budget tab will allow the user to add expenses for an upcoming trip. Ad
 
 Once a trip expense has been added, a pie chart above will be generated. This chart will show a breakdown of all your trip expenses grouped together by category.
 
+![JavaScript:](https://img.shields.io/badge/JavaScript-55.1%25-blue)
+             ![HTML:](https://img.shields.io/badge/HTML-9.3%25-red)
+             ![CSS:](https://img.shields.io/badge/CSS-1%25-purple)
+             ![Handlebars:](https://img.shields.io/badge/handlebars-34.6%25-yellow)
 ## Credits
 
 SMU Coding Bootcamp
