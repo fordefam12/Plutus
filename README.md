@@ -28,7 +28,7 @@ This was our groups first full stack application that we developed from scratch,
 
 Click (here) to visit the Plutus application or scan the QR code below: <br>
 <p align='center'>
-<a href='https://plutus-budgeting-ed67f205c52b.herokuapp.com/'><img src='./public/asset/PLUTUS.png' width="60%"></a>
+<a href='https://shielded-stream-48370-06cb0de7f892.herokuapp.com/'><img src='./public/asset/PLUTUS.png' width="60%"></a>
 </p>
 
 <p align='center'>
